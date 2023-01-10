@@ -10,9 +10,9 @@
     "type": "mysql",
     "host": "sql.db4free.net",
     "port": 3306,
-    "user": "gkalist",
+    "user": "gkadmin",
     "password": "gcx3344521",
-    "name": "gkalist",
+    "name": "gkadmin",
     "db_file": "data/data.db",
     "table_prefix": "alist_",
     "ssl_mode": "true"
