@@ -8,14 +8,14 @@
   "cdn": "",
   "database": {
     "type": "mysql",
-    "host": "",
-    "port": 0,
-    "user": "",
-    "password": "",
-    "name": "",
+    "host": "sql.db4free.net",
+    "port": 3306,
+    "user": "gkalist",
+    "password": "gcx3344521",
+    "name": "gkalist",
     "db_file": "data/data.db",
-    "table_prefix": "x_",
-    "ssl_mode": ""
+    "table_prefix": "alist_",
+    "ssl_mode": "true"
   },
   "scheme": {
     "https": false,
