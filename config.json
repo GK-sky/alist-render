@@ -8,7 +8,7 @@
   "cdn": "",
   "database": {
     "type": "mysql",
-    "host": "sql.db4free.net",
+    "host": "db4free.net",
     "port": 3306,
     "user": "gkalist",
     "password": "gcx3344521",
