@@ -5,10 +5,10 @@
   "jwt_secret": "random generated",
   "token_expires_in": 48,
   "site_url": "",
-  "cdn": "",
+  "cdn": "https://npm.elemecdn.com/alist-web@$version/dist/",
   "database": {
     "type": "mysql",
-    "host": "db4free.net",
+    "host": "sql.db4free.net",
     "port": 3306,
     "user": "gkalist",
     "password": "gcx3344521",
