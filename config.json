@@ -9,7 +9,7 @@
   "database": {
     "type": "mysql",
     "host": "sql.db4free.net",
-    "port": "3306",
+    "port": 3306,
     "user": "gkadmin",
     "password": "gcx3344521",
     "name": "gkadmin",
