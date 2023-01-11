@@ -7,15 +7,15 @@
   "site_url": "",
   "cdn": "",
   "database": {
-    "type": "mysql",
-    "host": "sql.db4free.net",
-    "port": 3306,
-    "user": "gkadmin",
-    "password": "gcx3344521",
-    "name": "gkadmin",
+     "type": "mysql",
+    "host": "",
+    "port": 0,
+    "user": "",
+    "password": "",
+    "name": "",
     "db_file": "data/data.db",
-    "table_prefix": "alist_",
-    "ssl_mode": "true"
+    "table_prefix": "x_",
+    "ssl_mode": ""
   },
   "scheme": {
     "https": false,
